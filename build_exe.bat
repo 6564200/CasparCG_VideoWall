@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=photo.ico --noconsole main.py

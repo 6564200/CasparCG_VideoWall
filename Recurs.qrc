@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="MAX">
+    <file>Doc.ico</file>
+    <file>close.ico</file>
+    <file>Martz90-Circle-Plex.ico</file>
+  </qresource>
+</RCC>
